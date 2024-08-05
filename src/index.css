@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: serif;
+}
+.card:hover .icons-container {
+  display: flex;
+}
